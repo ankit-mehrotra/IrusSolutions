@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://ankit-mehrotra.github.io/IrusSolutions",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
